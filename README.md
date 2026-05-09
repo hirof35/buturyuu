@@ -71,3 +71,4 @@ streamlit run main.py
 MIT License
 
 「物流の最適化は、世界の構造を書き換える。」
+<img width="1917" height="988" alt="スクリーンショット 2026-05-09 162018" src="https://github.com/user-attachments/assets/239ebb45-8a9a-4752-91db-87212c752fd3" />
